@@ -1,6 +1,6 @@
 <h1 align="center">Abdul Ghaffar</h1>
 <p align="center">
-  <b>Full Stack Developer & Software Engineer</b>
+  <b>MERN Stack Developer & Software Engineer</b>
 </p>
 <p align="center">
   Building production-grade IoT platforms, scalable backend architectures, and AI-driven web applications.
@@ -55,13 +55,13 @@ Results-driven software developer specializing in the MERN ecosystem, cloud infr
 ### Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulghaffar-code&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulghaffar-code&theme=radical&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulghaffar-code&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulghaffar-code&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghaffar-code&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghaffar-code&theme=radical" alt="GitHub Streak"/>
 </p>
