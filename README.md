@@ -1,6 +1,6 @@
 <h1 align="center">Abdul Ghaffar</h1>
 <p align="center">
-  <b>MERN Stack Developer & Software Engineer</b>
+  <b>Full Stack Developer & Software Engineer</b>
 </p>
 <p align="center">
   Building production-grade IoT platforms, scalable backend architectures, and AI-driven web applications.
