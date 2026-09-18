@@ -1,48 +1,67 @@
-<h1 align="center">Hi, I'm Abdul Ghaffar</h1>
-<h3 align="center">MERN Stack & Full-Stack Developer from Karachi, Pakistan</h3>
-<img src="https://komarev.com/ghpvc/?username=abdulghaffar-code&abbreviated=true" align="right"><br /><br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" align="right" width="400px" alt="img">&nbsp;
-
-Working as a MERN Stack Developer at Kazmah Regional Company (KRC) building production-grade IoT platforms and AI-powered web applications.
-Currently exploring advanced AWS Cloud, DevOps, and AI integrations.
-Ask me about React.js, Node.js, Express.js, MongoDB, and JavaScript.
-How to reach me: abdulghaffar15a@gmail.com
-LinkedIn: [abdulghaffar39](https://www.linkedin.com/in/abdulghaffar39/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdulghaffar39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulghaffar39" height="30" width="40" /></a>
-<a href="mailto:abdulghaffar15a@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<h1 align="center">Abdul Ghaffar</h1>
+<p align="center">
+  <b>MERN Stack Developer & Software Engineer</b>
+</p>
+<p align="center">
+  Building production-grade IoT platforms, scalable backend architectures, and AI-driven web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> &nbsp;
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> &nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> &nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a> &nbsp;
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" alt="terraform" width="40" height="40"/></a> &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> &nbsp;
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p><br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulghaffar39/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:abdulghaffar15a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=abdulghaffar-code&color=000000&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+</p>
 
-<h3 align="left">Featured Highlights:</h3>
-Kazmah Regional Company (KRC): Built production IoT platform (GRM) monitoring 15 devices via AWS IoT Core and MQTT protocol, deployed on AWS EC2.
-AI Resume Analyzer: Engineered AI-powered resume evaluation system using React, Node.js, and Google Gemini API.
+---
 
-<br />
+### Executive Profile
+Results-driven software developer specializing in the MERN ecosystem, cloud infrastructure deployment (AWS EC2, IoT Core), and AI integration. Proven track record of delivering real-time production systems tracking live connected hardware, alongside intelligent full-stack applications.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulghaffar-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulghaffar-code&show_icons=true&locale=en&theme=radical" alt="abdulghaffar-code" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghaffar-code&theme=radical" alt="abdulghaffar-code" /></p>
+### Core Technical Competencies
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Architecture** | React.js, TypeScript, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3 |
+| **Backend Engineering** | Node.js, Express.js, RESTful API Design, JWT Authentication, MQTT Protocol |
+| **Database & Storage** | MongoDB, MySQL, SQLite |
+| **Cloud & DevOps** | AWS (EC2, IoT Core, Lambda, RDS, Route S3), Terraform, Vercel, Render |
+| **AI & Integrations** | Google Gemini API, Claude |
+| **Development Toolchain** | Git, GitHub, Postman, VS Code, Figma |
+
+---
+
+### Professional Experience
+
+**MERN Stack Developer** | Kazmah Regional Company (KRC)
+* Engineered production IoT platform (GRM) monitoring 15 connected devices via AWS IoT Core and MQTT protocol.
+* Deployed and maintained full-stack MERN applications on AWS EC2 ensuring stable production uptime.
+* Architecting enterprise HVAC service management platforms featuring structured service request workflows and technician assignment modules.
+
+---
+
+### Key Engineering Projects
+
+* **AI Resume Analyzer & Job Matching System**
+  * Built an automated resume evaluation engine utilizing React.js, Node.js, Express.js, and Google Gemini API for intelligent scoring and candidate-to-job matching.
+  * Implemented secure REST architecture featuring JSON Web Token (JWT) authentication and robust MongoDB data persistence.
+* **GRM IoT Monitoring Platform**
+  * Developed real-time telemetry processing pipelines using Node.js and AWS IoT Core for live tracking of connected hardware units.
+  * Designed responsive analytics dashboards in React.js powered by advanced MongoDB aggregation pipelines.
+
+---
+
+### Analytics & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulghaffar-code&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulghaffar-code&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghaffar-code&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
